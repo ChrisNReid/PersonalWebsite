@@ -1,6 +1,6 @@
 # PersonalWebsite
 
-#1. Front Page
+
 <img src="frontpage.jpg" width="200">
 #2. Resume Page, using left link
 <img src="resumepage.jpg" width="200">
