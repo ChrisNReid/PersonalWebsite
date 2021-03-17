@@ -1,10 +1,10 @@
 # PersonalWebsite
 
-
+#1. Front Page
 <img src="frontpage.jpg" width="200">
-#Resume Page, using left link
+#2. Resume Page, using left link
 <img src="resumepage.jpg" width="200">
-#Tutoring Page, using right link
+#3. Tutoring Page, using right link
 <img src="tutoringpage.jpg" width="200">
-#Contact Page, Using bottom link
+#4. Contact Page, Using bottom link
 <img src="contactpage.jpg" width="200">
